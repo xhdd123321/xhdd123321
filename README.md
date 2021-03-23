@@ -1,6 +1,6 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xhdd123321&show_icons=true&theme=radical">
 
-### Hello GitHub
+### Hello GitHub✨
 
 * 🔍这里是一枚学习中的小白。。。
 * 🔥想起来的时候会写写博客？[我的小站](https://www.zhu-an.cn)
