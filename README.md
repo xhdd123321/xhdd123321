@@ -4,7 +4,7 @@
 
 🔍这里是一枚学习中的小白。。。
 
-🔥想起来的时候会写写博客？[zhu-an小站](https://www.zhu-an.com)
+🔥想起来的时候会写写博客？[我的小站](https://www.zhu-an.cn)
 
 📝自学Java后端开发ing（技术栈真的好多😭）
 
